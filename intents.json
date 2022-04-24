@@ -1,4 +1,4 @@
-{"Genral":[
+{"General":[
   {"tag": "Greetings",
   "patterns":["hello"],
   "response":["Hello"]},
