@@ -1,0 +1,10 @@
+{"Genral":[
+  {"tag": "Greetings",
+  "patterns":["hello"],
+  "response":["Hello"]},
+
+  {"tag": "1",
+  "patterns":["hello"],
+  "response":["Hello"]}
+  
+]}
